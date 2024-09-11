@@ -1,4 +1,4 @@
-# Focus On ![Focus On Logo](logo.svg)
+# ![Focus On Logo](logo.svg) Focus On
 
 **We push the boundaries of traditional digital development by combining advanced web strategy techniques with creative storytelling.**
 
