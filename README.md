@@ -77,24 +77,3 @@ We stay up-to-date with the latest technologies to provide high-quality solution
 Need a consultation or want to learn more about us? Visit our website [Focus On](https://focuson.agency) or contact us directly via email: **[hello@focuson.agency](mailto:hello@focuson.agency)**.
 
 ---
-
-<style>
-h1 {
-  color: #F2A60F;
-}
-
-h2 {
-  color: #000;
-}
-
-a {
-  color: #F2A60F;
-  text-decoration: none;
-  font-weight: bold;
-}
-
-a:hover {
-  color: #000;
-  text-decoration: underline;
-}
-</style>
