@@ -1,0 +1,43 @@
+<svg width="1600" height="520" viewBox="0 0 1600 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="pbg" x1="0" y1="0" x2="1600" y2="520" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#0C0C0C"/>
+    <stop offset="1" stop-color="#171717"/>
+  </linearGradient>
+</defs>
+<rect width="1600" height="520" rx="28" fill="url(#pbg)"/>
+<text x="90" y="98" fill="#F5F5F5" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">Principles</text>
+<text x="90" y="138" fill="#8B8B8B" font-family="Arial, Helvetica, sans-serif" font-size="20">The way we design, build and scale digital products.</text>
+
+<g>
+  <rect x="90" y="196" width="330" height="190" rx="22" stroke="#2B2B2B"/>
+  <text x="122" y="252" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">01</text>
+  <text x="122" y="296" fill="#EAEAEA" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Performance</text>
+  <text x="122" y="334" fill="#9E9E9E" font-family="Arial, Helvetica, sans-serif" font-size="18">Speed is not a detail.</text>
+  <text x="122" y="362" fill="#9E9E9E" font-family="Arial, Helvetica, sans-serif" font-size="18">It is part of the product.</text>
+</g>
+
+<g>
+  <rect x="455" y="196" width="330" height="190" rx="22" stroke="#2B2B2B"/>
+  <text x="487" y="252" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">02</text>
+  <text x="487" y="296" fill="#EAEAEA" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Systems</text>
+  <text x="487" y="334" fill="#9E9E9E" font-family="Arial, Helvetica, sans-serif" font-size="18">We build foundations,</text>
+  <text x="487" y="362" fill="#9E9E9E" font-family="Arial, Helvetica, sans-serif" font-size="18">not one-off pages.</text>
+</g>
+
+<g>
+  <rect x="820" y="196" width="330" height="190" rx="22" stroke="#2B2B2B"/>
+  <text x="852" y="252" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">03</text>
+  <text x="852" y="296" fill="#EAEAEA" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Motion</text>
+  <text x="852" y="334" fill="#9E9E9E" font-family="Arial, Helvetica, sans-serif" font-size="18">Motion guides attention</text>
+  <text x="852" y="362" fill="#9E9E9E" font-family="Arial, Helvetica, sans-serif" font-size="18">with intent.</text>
+</g>
+
+<g>
+  <rect x="1185" y="196" width="330" height="190" rx="22" stroke="#2B2B2B"/>
+  <text x="1217" y="252" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">04</text>
+  <text x="1217" y="296" fill="#EAEAEA" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Conversion</text>
+  <text x="1217" y="334" fill="#9E9E9E" font-family="Arial, Helvetica, sans-serif" font-size="18">Every layer should move</text>
+  <text x="1217" y="362" fill="#9E9E9E" font-family="Arial, Helvetica, sans-serif" font-size="18">the business forward.</text>
+</g>
+</svg>
