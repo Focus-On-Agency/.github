@@ -4,19 +4,19 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=140&section=header"/>
 </p>
 
-<p align="center">
+<p align="left">
   <strong>High-performance digital experiences.</strong><br/>
   We design, build and scale modern web products.
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://focuson.agency">🌐 Website</a> •
   <a href="mailto:hello@focuson.agency">📩 Contact</a>
 </p>
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/focus-performance-black"/>
   <img src="https://img.shields.io/badge/approach-dev--first-black"/>
   <img src="https://img.shields.io/badge/design-editorial-black"/>
@@ -72,7 +72,6 @@ We combine engineering precision with creative direction.
 * GSAP
 * Alpine.js
 * Swiper
-* Custom motion engine
 
 ---
 
@@ -86,26 +85,6 @@ We don’t build pages. We build systems.
 * Performance-first decisions
 
 Everything is designed to scale.
-
----
-
-## 🎬 Motion system
-
-We build custom animation engines based on declarative attributes.
-
-```html
-<div 
-  data-anim="fade"
-  data-anim-direction="up"
-  data-anim-duration="1"
-></div>
-```
-
-* No hardcoded animations
-* Fully configurable via markup
-* Optimized for performance
-
-Motion is not decoration. It's communication.
 
 ---
 
@@ -136,7 +115,6 @@ We build for the long term.
 * Headless commerce
 * Edge rendering
 * AI-powered UX
-* Advanced motion systems
 
 Always evolving.
 
